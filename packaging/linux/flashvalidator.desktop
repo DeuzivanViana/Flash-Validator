@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Version=1.5
+Name=FlashValidator
+GenericName=USB Drive Validator
+Comment=Check USB drives for fake capacity and read/write errors without losing data
+Exec=flashvalidator-gui
+Icon=flashvalidator
+Terminal=false
+Categories=Utility;System;
+Keywords=usb;flash;pendrive;counterfeit;fake;capacity;disk;test;
+StartupWMClass=flashvalidator

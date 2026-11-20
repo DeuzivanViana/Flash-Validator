@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <title>FlashValidator</title>
+  <rect x="10.24" y="10.24" width="235.52" height="235.52" rx="35.84" fill="#26262C"/>
+  <rect x="16.64" y="16.64" width="222.72" height="222.72" rx="29.44" fill="#0A0A0C"/>
+  <rect x="53.76" y="53.76" width="28.48" height="28.48" rx="4.61" fill="#5EEAD4"/>
+  <rect x="93.76" y="53.76" width="28.48" height="28.48" rx="4.61" fill="#51D7C3"/>
+  <rect x="133.76" y="53.76" width="28.48" height="28.48" rx="4.61" fill="#44C3B2"/>
+  <rect x="173.76" y="53.76" width="28.48" height="28.48" rx="4.61" fill="#37B0A1"/>
+  <rect x="53.76" y="93.76" width="28.48" height="28.48" rx="4.61" fill="#51D7C3"/>
+  <rect x="93.76" y="93.76" width="28.48" height="28.48" rx="4.61" fill="#44C3B2"/>
+  <rect x="133.76" y="93.76" width="28.48" height="28.48" rx="4.61" fill="#37B0A1"/>
+  <rect x="173.76" y="93.76" width="28.48" height="28.48" rx="4.61" fill="#299D90"/>
+  <rect x="53.76" y="133.76" width="28.48" height="28.48" rx="4.61" fill="#44C3B2"/>
+  <rect x="93.76" y="133.76" width="28.48" height="28.48" rx="4.61" fill="#37B0A1"/>
+  <rect x="133.76" y="133.76" width="28.48" height="28.48" rx="4.61" fill="#299D90"/>
+  <rect x="173.76" y="133.76" width="28.48" height="28.48" rx="4.61" fill="#1C897F"/>
+  <rect x="53.76" y="173.76" width="28.48" height="28.48" rx="4.61" fill="#37B0A1"/>
+  <rect x="93.76" y="173.76" width="28.48" height="28.48" rx="4.61" fill="#299D90"/>
+  <rect x="133.76" y="173.76" width="28.48" height="28.48" rx="4.61" fill="#1C897F"/>
+  <rect x="173.76" y="173.76" width="28.48" height="28.48" rx="4.61" fill="#0F766E"/>
+</svg>
