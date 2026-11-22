@@ -15,7 +15,12 @@ FlashValidator checks **576 regions spread evenly across the whole declared
 capacity** and puts your data back afterwards. A full write-and-verify pass
 takes hours; this takes minutes.
 
-![FlashValidator](docs/screenshot.png)
+<p align="center">
+  <img src="docs/screenshot.png" width="49%" alt="FlashValidator: choosing a drive and a test mode">
+  <img src="docs/screenshot-report.png" width="49%" alt="FlashValidator: report of a counterfeit drive">
+</p>
+
+<p align="center"><sub>Left: choosing a drive and a test mode. Right: the report for a counterfeit "2 TB" drive (illustrative data).</sub></p>
 
 ## Test modes
 
@@ -83,8 +88,11 @@ window over a token-authenticated local connection. On Linux, members of the
 
 ### Desktop app
 
-Open **FlashValidator**, choose the drive and a mode, then press **Validate
-this drive**.
+Open **FlashValidator**. In the side bar, choose the drive and a test mode,
+then press **Validate this drive**. The main area shows the live region map
+while the test runs, then the verdict, the validated size and the performance
+figures. **Copy report** and **Save report** export the result as text (and
+JSON when saved).
 
 ### Command line
 
